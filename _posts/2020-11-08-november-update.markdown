@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November 2020 Update"
+title:  "November 2020 update"
 date:   2020-11-08 10:50:45 -0400
 categories: update
 ---
